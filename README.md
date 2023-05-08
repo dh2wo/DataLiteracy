@@ -1,1 +1,3 @@
 # DataLiteracy
+
+Numpy, Pandas
